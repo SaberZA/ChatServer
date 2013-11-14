@@ -3,7 +3,6 @@ ChatServer
 
 TCP Socket-based Chat Server and Client
 
-Advanced Chat System
 A demonstration of TCP communications. 
 I have omitted the separation of layers to focus on the sole function of Socket-based communications.
 
